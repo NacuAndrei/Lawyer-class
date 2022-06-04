@@ -1,2 +1,2 @@
-# Tema2 Lab POO
- Nacu Andrei gr.131
+A small C++ OOP project for my 1st year of university.
+
