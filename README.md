@@ -1,2 +1,3 @@
-A small C++ OOP project for my 1st year of university.
+# First OOP project 
 
+A small project for my first experience with OOP projects.
